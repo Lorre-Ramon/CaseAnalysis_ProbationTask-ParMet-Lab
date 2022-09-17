@@ -1,2 +1,6 @@
-# CaseAnalysis_ProbationTask-ParMet-Lab
+# CaseAnalysis_ProbationTask/ParMet-Lab
 记录了Parmet Lab培训时进行的两个案例分析，分别为足球的分析和企业的分析。
+## 球队数据分析
+对数据进行清洗、探索、并试图回答一些问题。
+## 企业数据分析
+对企业数张反映不同方面的数据进行探索，并试图回答一些问题。
